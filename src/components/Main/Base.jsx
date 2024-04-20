@@ -10,7 +10,7 @@ const Base = () => {
     return (
       <div className='main'>
         <div className="nav">
-          <p>Gemini</p>
+          <p>UnityAI</p>
           <img src={assets.user_icon} alt="" />
         </div>
         <div className="main-container">
@@ -26,15 +26,15 @@ const Base = () => {
                   <img src={assets.compass_icon} alt="" />
               </div>
               <div className="card">
-                  <p>Suggest beatuful places to see on an upcoming road trip</p>
+                  <p>Give healthy meal prep ideas for a busy week ahead</p>
                   <img src={assets.bulb_icon} alt="" />
               </div>
               <div className="card">
-                  <p>Suggest beatuful places to see on an upcoming road trip</p>
+                  <p>Explore new hobbies: Ideas for creative activities to try at home</p>
                   <img src={assets.message_icon} alt="" />
               </div>
               <div className="card">
-                  <p>Suggest beatuful places to see on an upcoming road trip</p>
+                  <p>Searching for podcasts or audiobooks to listen to during daily commutes</p>
                   <img src={assets.code_icon} alt="" />
               </div>
           </div>
